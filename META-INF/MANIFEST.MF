@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: swtforms
+Bundle-SymbolicName: de.esw.swt.forms
+Bundle-Version: 1.1
+Bundle-Localization: plugin
+Bundle-Vendor: emedia-solutions wolf
+Export-Package: de.esw.swt.forms.builder,
+ de.esw.swt.forms.debug,
+ de.esw.swt.forms.layout
+Import-Package: org.eclipse.jface.resource,
+ org.eclipse.swt,
+ org.eclipse.swt.events,
+ org.eclipse.swt.graphics,
+ org.eclipse.swt.layout,
+ org.eclipse.swt.widgets
